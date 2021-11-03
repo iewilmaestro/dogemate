@@ -39,7 +39,7 @@ function explod($hasil,$exp1,$exp2,$exp3){
 	$hasil1 = explode($exp2,$hasil2)[0];
 	return $hasil1;}
 function bn(){
-	echo col('Script by ','h')."iewil".$n2;
+	echo col('Script by ','h')."iewil"."\n\n";
 	}
 function c(){system('clear');}$n = "\n";$n2 = "\n\n";$t = "\t";$r="\r                                                              \r";
 c();
